@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['metal', 'plastic']
+
+roboflow:
+  workspace: marcos-reis-td1ko
+  project: dart-sibtj
+  version: 2
+  license: Public Domain
+  url: https://universe.roboflow.com/marcos-reis-td1ko/dart-sibtj/dataset/2

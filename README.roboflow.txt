@@ -1,8 +1,8 @@
 
-dart - v2 2023-04-24 8:47pm
+dart - v3 2023-04-25 1:00pm
 ==============================
 
-This dataset was exported via roboflow.com on April 24, 2023 at 7:48 PM GMT
+This dataset was exported via roboflow.com on April 25, 2023 at 12:04 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -21,6 +21,7 @@ The dataset includes 1675 images.
 Dart are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
+* Resize to 640x640 (Stretch)
 
 No image augmentation techniques were applied.
 

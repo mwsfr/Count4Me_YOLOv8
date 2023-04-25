@@ -8,6 +8,6 @@ names: ['metal', 'plastic']
 roboflow:
   workspace: marcos-reis-td1ko
   project: dart-sibtj
-  version: 2
+  version: 3
   license: Public Domain
-  url: https://universe.roboflow.com/marcos-reis-td1ko/dart-sibtj/dataset/2
+  url: https://universe.roboflow.com/marcos-reis-td1ko/dart-sibtj/dataset/3

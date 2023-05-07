@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['dart']
+
+roboflow:
+  workspace: marcos-reis-td1ko
+  project: dart-sibtj
+  version: 4
+  license: Public Domain
+  url: https://universe.roboflow.com/marcos-reis-td1ko/dart-sibtj/dataset/4
